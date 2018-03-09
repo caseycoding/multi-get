@@ -102,5 +102,3 @@ function writeFileToSystem(parts) {
     console.log(`File saved at ./${filename}`);
   });
 }
-
-
